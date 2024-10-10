@@ -29,8 +29,8 @@
    
 **API Endpoints**
     
-     1.*/books:* View available books
-     2.*/cart:* Manage cart items
-     3.*/orders:* Place and track orders
+     1./books: View available books
+     2./cart: Manage cart items
+     3./orders: Place and track orders
 
 *Demo link*:https://drive.google.com/file/d/1DakgeIGYiW2ZMLx7c4spCZFT0Er_YBr7/view?usp=sharing
