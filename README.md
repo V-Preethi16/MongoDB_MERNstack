@@ -1,11 +1,8 @@
-**Introduction**
-    
+##Introduction
     The Online Bookstore Website is a platform designed to allow users to browse, search, and purchase books online. It includes features such as user registration, book search, cart management, and order placement.
 
-**Project Architecture**
-     
-    The website consists of three key components:
-
+##Project Architecture
+  The website consists of three key components:
       Frontend: HTML, CSS, JavaScript for the user interface (book browsing, cart, user management).
       Backend: Node and Express JavaScript for managing books, user data, and orders.
       Database: MongoDB to store book listings, user info, and order history.
@@ -27,8 +24,7 @@
 4. Set up MongoDB to view documents
 5. Run the server: python manage.py runserver.
    
-**API Endpoints**
-    
+##API Endpoints
      1./books: View available books
      2./cart: Manage cart items
      3./orders: Place and track orders
